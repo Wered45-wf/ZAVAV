@@ -8,3 +8,11 @@
 - Личный кабинет
 
 ## Технологии
+- **Frontend**: Bootstrap
+- **Backend**: PHP
+- **База данных**: MySQL
+
+## Установка
+1. **Клонирование репозиторий**
+```bash
+git clone https://github.com/Wered45-wf/ZAVAV.git
